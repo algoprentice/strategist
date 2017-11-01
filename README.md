@@ -27,4 +27,4 @@ Timer Appear After Round is Finished.
 
 Collision Handling.
 
-Implemented with OOM concepts.
+OOP + Vanilla Java.
