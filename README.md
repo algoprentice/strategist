@@ -27,4 +27,5 @@ Timer Appear After Round is Finished.
 
 Collision Handling.
 
-OOP + Vanilla Java.
+## Technology
+OOP + Vanilla Java + Netbeans.
