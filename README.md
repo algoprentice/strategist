@@ -4,23 +4,23 @@
 ![ScreenShot](https://raw.github.com/algoprentice/strategist/master/screenshots/Capture.PNG)
 ![ScreenShot](https://raw.github.com/algoprentice/strategist/master/screenshots/Capture2.PNG)
 
-## How It is Finished: 
+## How It is Finished
 Collect all apples and go to terminal;
 
-## Guards: 
+## Guards
 Fused with Random Motion and can be expanded to AI Algorithms;
 
-## Golds: 
+## Golds 
 Need to collect all before finishing game;
 
-## Bomb: 
+## Bomb 
 Only one can be placed at a time;
 
 Ready to detonate between [2 secs, 5 secs], if one or more guards collides with it in its detonating time they will explode with the bomb. 
 
 Will disappear after 5 secs;
 
-## Other Features:
+## Other Features
 Maze World.
 
 Timer Appear After Round is Finished.
